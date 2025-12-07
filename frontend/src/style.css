@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Reset or global overrides */
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
